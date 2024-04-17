@@ -1,12 +1,12 @@
-# Simon Game Website
+# Color Chase Website
 
-Welcome to the Simon Game website repository! This is a web-based implementation of the classic Simon game using HTML, CSS, JavaScript, and jQuery. The game challenges players to remember and repeat sequences of colors and sounds.
+Welcome to the Color Chase website repository! This is a web-based implementation of the classic Simon game using HTML, CSS, JavaScript, and jQuery. The game challenges players to remember and repeat sequences of colors and sounds.
 
 ## Preview
 
-Here's a preview of the Simon website:
+Here's a preview of the Color Chase website:
 
-![Simon Game Preview](simon_game_preview.png)
+![Color Chase Preview](color_chase_preview.png)
 
 ## How to Play
 * Open index.html in a web browser.
@@ -15,7 +15,7 @@ Here's a preview of the Simon website:
 * Progress through levels by correctly replicating the sequences.
 
 ## Sound Effects
-The Simon Game uses the following sound effects stored in the sounds folder:
+The Color Chase uses the following sound effects stored in the sounds folder:
 
 * green.mp3: Sound for the green button.
 * red.mp3: Sound for the red button.
@@ -26,28 +26,28 @@ The Simon Game uses the following sound effects stored in the sounds folder:
 
 ## Broadcast Link
 
-Visit my website here: https://utkarsh1244p.github.io/Simon-Game/
+Visit my website here: https://utkarsh1244p.github.io/Color-Chase/
 
 ## Installation
 
-To run the Simon Game Website locally, follow these steps:
+To run the Color Chase Website locally, follow these steps:
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Utkarsh1244p/Simon-Game.git
+   git clone https://github.com/Utkarsh1244p/Color-Chase.git
 
 2. **Navigate into the project directory:**
 
    ```bash
-   cd simon-game
+   cd color-chase
 
 3. **Open the index.html file in your web browser.**
 
 ## Folder Structure
 The repository has the following structure:
 ```bash
-simon-game/
+color-chase/
 ├── index.html
 ├── styles.css
 ├── game.js
