@@ -49,10 +49,8 @@ The repository has the following structure:
 ```bash
 simon-game/
 ├── index.html
-├── styles/
-│   └── styles.css
-├── scripts/
-│   └── game.js
+├── styles.css
+├── game.js
 └── sounds/
     └── green.mp3
     └── red.mp3
